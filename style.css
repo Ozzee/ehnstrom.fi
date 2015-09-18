@@ -20,6 +20,10 @@ ul {
   list-style: none;
 }
 
+ul li {
+  padding: 0.4em 0;
+}
+
 ul.vcard a {
   color: var(--darkColor);
   text-decoration: none;
