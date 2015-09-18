@@ -1,0 +1,26 @@
+:root {
+    --darkColor: #403838;
+}
+
+body {
+    background: #f2f2f2;
+    font-family: 'Old Standard TT', serif;
+    color: var(--darkColor);
+    padding: 10% 10%;
+}
+
+h1 {
+  color: var(--darkColor);
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+ul {
+  padding-left: 0.25em;
+  list-style: none;
+}
+
+ul.vcard a {
+  color: var(--darkColor);
+  text-decoration: none;
+}
